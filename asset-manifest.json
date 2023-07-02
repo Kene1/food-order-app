@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/food-order-app/static/css/main.19591a17.chunk.css",
+    "main.js": "/food-order-app/static/js/main.1eb960c1.chunk.js",
+    "main.js.map": "/food-order-app/static/js/main.1eb960c1.chunk.js.map",
+    "runtime-main.js": "/food-order-app/static/js/runtime-main.a289eda7.js",
+    "runtime-main.js.map": "/food-order-app/static/js/runtime-main.a289eda7.js.map",
+    "static/js/2.b601f051.chunk.js": "/food-order-app/static/js/2.b601f051.chunk.js",
+    "static/js/2.b601f051.chunk.js.map": "/food-order-app/static/js/2.b601f051.chunk.js.map",
+    "index.html": "/food-order-app/index.html",
+    "static/css/main.19591a17.chunk.css.map": "/food-order-app/static/css/main.19591a17.chunk.css.map",
+    "static/js/2.b601f051.chunk.js.LICENSE.txt": "/food-order-app/static/js/2.b601f051.chunk.js.LICENSE.txt",
+    "static/media/Mogodu.1955d509.jpg": "/food-order-app/static/media/Mogodu.1955d509.jpg",
+    "static/media/Mosutlhane.29f077ef.jpg": "/food-order-app/static/media/Mosutlhane.29f077ef.jpg",
+    "static/media/meals.8220a2f2.jpg": "/food-order-app/static/media/meals.8220a2f2.jpg",
+    "static/media/phane.d71512f7.jpg": "/food-order-app/static/media/phane.d71512f7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a289eda7.js",
+    "static/js/2.b601f051.chunk.js",
+    "static/css/main.19591a17.chunk.css",
+    "static/js/main.1eb960c1.chunk.js"
+  ]
+}
